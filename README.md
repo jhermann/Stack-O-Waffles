@@ -2,7 +2,11 @@
 
 ![Stack O'Waffles](https://raw.githubusercontent.com/jhermann/Stack-O-Waffles/master/waffles.png)
 
- [![Throughput Graph](https://graphs.waffle.io/jhermann/stack-o-waffles/throughput.svg)](https://waffle.io/jhermann/stack-o-waffles/metrics)
+## Throughput
+
+[![Throughput Graph](https://graphs.waffle.io/jhermann/stack-o-waffles/throughput.svg)](https://waffle.io/jhermann/stack-o-waffles/metrics)
+
+## Issue Stats
 
 Project | Status
 ----: | :----
