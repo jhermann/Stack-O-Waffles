@@ -1,4 +1,4 @@
-# Stack-O-Waffles
+# Stack O'Waffles
 
 ![Stack O'Waffles](https://raw.githubusercontent.com/jhermann/Stack-O-Waffles/master/waffles.png)
 
