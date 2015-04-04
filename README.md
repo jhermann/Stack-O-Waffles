@@ -1,7 +1,10 @@
 # Stack-O-Waffles
 
-[![Stories in Ready](https://badge.waffle.io/jhermann/stack-o-waffles.png?label=ready&title=Ready)](https://waffle.io/jhermann/stack-o-waffles)
+Project | Status
+----: | :----
+[jhermann/rituals](https://github.com/jhermann/rituals) | [![Backlog](https://badge.waffle.io/jhermann/rituals.png?label=backlog&title=Backlog)](https://waffle.io/jhermann/stack-o-waffles) [![Ready](https://badge.waffle.io/jhermann/rituals.png?label=ready&title=Ready)](https://waffle.io/jhermann/stack-o-waffles) [![In Progress](https://badge.waffle.io/jhermann/rituals.png?label=in+progress&title=In+Progress)](https://waffle.io/jhermann/stack-o-waffles)
+[jhermann/rudiments](https://github.com/jhermann/rudiments) | [![Backlog](https://badge.waffle.io/jhermann/rudiments.png?label=backlog&title=Backlog)](https://waffle.io/jhermann/stack-o-waffles) [![Ready](https://badge.waffle.io/jhermann/rudiments.png?label=ready&title=Ready)](https://waffle.io/jhermann/stack-o-waffles) [![In Progress](https://badge.waffle.io/jhermann/rudiments.png?label=in+progress&title=In+Progress)](https://waffle.io/jhermann/stack-o-waffles)
+[jhermann/gh-commander](https://github.com/jhermann/gh-commander) | [![Backlog](https://badge.waffle.io/jhermann/gh-commander.png?label=backlog&title=Backlog)](https://waffle.io/jhermann/stack-o-waffles) [![Ready](https://badge.waffle.io/jhermann/gh-commander.png?label=ready&title=Ready)](https://waffle.io/jhermann/stack-o-waffles) [![In Progress](https://badge.waffle.io/jhermann/gh-commander.png?label=in+progress&title=In+Progress)](https://waffle.io/jhermann/stack-o-waffles)
+[Springerle/py-generic-project](https://github.com/Springerle/py-generic-project) | [![Backlog](https://badge.waffle.io/Springerle/py-generic-project.png?label=backlog&title=Backlog)](https://waffle.io/jhermann/stack-o-waffles) [![Ready](https://badge.waffle.io/Springerle/py-generic-project.png?label=ready&title=Ready)](https://waffle.io/jhermann/stack-o-waffles) [![In Progress](https://badge.waffle.io/Springerle/py-generic-project.png?label=in+progress&title=In+Progress)](https://waffle.io/jhermann/stack-o-waffles)
 
 ![Stack O'Waffles](https://raw.githubusercontent.com/jhermann/Stack-O-Waffles/master/waffles.png)
-
-[![Throughput Graph](https://graphs.waffle.io/jhermann/Stack-O-Waffles/throughput.svg)](https://waffle.io/jhermann/Stack-O-Waffles/metrics)
