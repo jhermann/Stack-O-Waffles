@@ -2,6 +2,8 @@
 
 ![Stack O'Waffles](https://raw.githubusercontent.com/jhermann/Stack-O-Waffles/master/waffles.png)
 
+ [![Throughput Graph](https://graphs.waffle.io/jhermann/stack-o-waffles/throughput.svg)](https://waffle.io/jhermann/stack-o-waffles/metrics)
+
 Project | Status
 ----: | :----
 [jhermann/rituals](https://github.com/jhermann/rituals) | [![GitHub Issues](https://img.shields.io/github/issues/jhermann/rituals.svg)](https://github.com/jhermann/rituals/issues) [![Ready](https://badge.waffle.io/jhermann/rituals.png?label=ready&title=Ready)](https://waffle.io/jhermann/stack-o-waffles) [![In Progress](https://badge.waffle.io/jhermann/rituals.png?label=in+progress&title=In+Progress)](https://waffle.io/jhermann/stack-o-waffles)
