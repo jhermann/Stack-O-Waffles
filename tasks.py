@@ -1,6 +1,6 @@
 from invoke import ctask as task
 
-LABELS = ('Backlog', 'Ready', 'In Progress')
+LABELS = ('Ready', 'In Progress')
 PROJECTS = """
     jhermann/rituals
     jhermann/rudiments
@@ -17,7 +17,10 @@ def markup(ctx):
         "----: | :----",
     ]
     for project in PROJECTS:
-        line = "[{project}](https://github.com/{project}) |".format(project=project)
+        line = (
+            "[{project}](https://github.com/{project}) |"
+            " [![GitHub Issues](https://img.shields.io/github/issues/{project}.svg)](https://github.com/{project}/issues)"
+            ).format(project=project)
         for label in LABELS:
             line += (
                 " [![{name}](https://badge.waffle.io/{project}.png?label={label}&title={title})]"
