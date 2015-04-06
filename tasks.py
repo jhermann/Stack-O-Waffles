@@ -5,6 +5,7 @@ PROJECTS = """
     jhermann/rituals
     jhermann/rudiments
     jhermann/gh-commander
+    jhermann/thin-man
     Springerle/py-generic-project
 """
 PROJECTS = [i.strip() for i in PROJECTS.splitlines() if i]
