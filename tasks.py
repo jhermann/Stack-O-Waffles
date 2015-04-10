@@ -7,6 +7,7 @@ PROJECTS = """
     jhermann/gh-commander
     jhermann/thin-man
     Springerle/py-generic-project
+    Build-The-Web/bootils
 """
 PROJECTS = [i.strip() for i in PROJECTS.splitlines() if i]
 
