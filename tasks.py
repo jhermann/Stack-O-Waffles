@@ -10,6 +10,8 @@ PROJECTS = """
     jhermann/rudiments
     jhermann/gh-commander
     jhermann/thin-man
+    jhermann/jmx4py
+    jhermann/kunstkopf
     Springerle/py-generic-project
     Build-The-Web/bootils
 """
