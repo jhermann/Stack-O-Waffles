@@ -2,9 +2,13 @@
 
 ![Stack O'Waffles](https://raw.githubusercontent.com/jhermann/Stack-O-Waffles/master/waffles.png)
 
+[How to get your own multi-repo Kanban board…](https://waffle.io/blog/2014/04/23/get-more-done-with-multi-repo-support/)
+
+
 ## Throughput
 
 [![Throughput Graph](https://graphs.waffle.io/jhermann/stack-o-waffles/throughput.svg)](https://waffle.io/jhermann/stack-o-waffles/metrics)
+
 
 ## Issue Stats
 
