@@ -14,6 +14,9 @@ PROJECTS = """
     jhermann/kunstkopf
     Springerle/py-generic-project
     Build-The-Web/bootils
+    Build-The-Web/time-tunnel
+    Feed-The-Web/javaprops
+    Feed-The-Web/ok-deploy
 """
 PROJECTS = [i.strip() for i in PROJECTS.splitlines() if i]
 LABEL_MASTER_URL = 'https://raw.githubusercontent.com/jhermann/gh-commander/master/examples/labels.yaml'
