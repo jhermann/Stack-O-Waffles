@@ -1,1 +1,9 @@
+#
+# tasks.py requirements
+#
+
 invoke
+requests
+
+-r https://raw.githubusercontent.com/jhermann/gh-commander/master/requirements.txt
+-e git+https://github.com/jhermann/gh-commander.git#egg=gh_commander
