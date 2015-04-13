@@ -8,6 +8,7 @@ LABELS = ('Ready', 'In Progress')
 PROJECTS = """
     jhermann/rituals
     jhermann/rudiments
+    jhermann/tablemate
     jhermann/gh-commander
     jhermann/thin-man
     jhermann/jmx4py
