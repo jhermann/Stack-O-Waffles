@@ -13,6 +13,7 @@ PROJECTS = """
     jhermann/thin-man
     jhermann/jmx4py
     jhermann/kunstkopf
+    jhermann/pygments-markdown-lexer
     Springerle/py-generic-project
     Build-The-Web/bootils
     Build-The-Web/time-tunnel
