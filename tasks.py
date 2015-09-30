@@ -19,6 +19,7 @@ PROJECTS = """
     Build-The-Web/time-tunnel
     Feed-The-Web/javaprops
     Feed-The-Web/ok-deploy
+    1and1/confluencer
 """
 PROJECTS = [i.strip() for i in PROJECTS.splitlines() if i]
 LABEL_MASTER_URL = 'https://raw.githubusercontent.com/jhermann/gh-commander/master/examples/labels.yaml'
